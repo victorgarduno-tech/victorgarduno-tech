@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Victor Garduño 👋
 
-<!--
-**victorgarduno-tech/victorgarduno-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack PHP Developer | IT Systems Specialist | Digital Transformation
 
-Here are some ideas to get you started:
+Information Technology professional focused on web systems development, IT infrastructure, process automation, and digital transformation projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+
+* PHP
+* MySQL
+* JavaScript
+* Bootstrap
+* HTML5 / CSS3
+* REST APIs
+* Cloudflare
+* cPanel
+* Hosting Administration
+* Networking & Technical Support
+
+### 💼 Experience
+
+* Government digital transformation projects
+* Administrative systems development
+* Digital records platforms
+* Payment & reporting systems
+* Infrastructure and technical operations
+* Process automation solutions
+
+### 📌 Current Focus
+
+* Laravel
+* Cloud Technologies
+* Remote International Opportunities
+* Full Stack Development
+
+### 🌎 Open to
+
+Remote opportunities, contractor positions, and international technology projects.
